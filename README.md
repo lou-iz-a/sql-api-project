@@ -1,6 +1,6 @@
-This is our approach to a project at neue fische.
+The notebook shows our approach to a SQL / Python / API project at neue fische.
 
-The description of the task:
+Short description of the task:
 
 # SQL-API project
 
